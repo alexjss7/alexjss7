@@ -33,7 +33,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/alexjss7/alexjss7/output/snake.svg" alt="Snake animation" />
 
 ###
 
