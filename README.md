@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🔭 Today I work with infrastructure<br>📗 Studying Java<br>📫 Contact me at email: alexjulio0209@gmail.com<br>😄 Pronouns: he/him</p>
+<p align="left">🔭 Today I work with infrastructure<br>📗 Studying Java<br>😄 Pronouns: he/him</p>
 
 ###
 
