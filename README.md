@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🔭 Today I work with infrastructure<br>📗 Studying Java<br>😄 Pronouns: he/him</p>
+<p align="left">🔭 Today I work with infrastructure<br>📗 Studying Java and Spring<br>😄 Pronouns: he/him</p>
 
 ###
 
