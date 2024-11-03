@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🔭 Today I work with infrastructure<br>📗 I'm studying to become a full stack web developer.<br>😄 Pronouns: he/him</p>
+<p align="left">🔭 I currently work as an infrastructure and network analyst.<br>📗 I'm studying to become a full stack web developer.<br>😄 Pronouns: he/him</p>
 
 ###
 
