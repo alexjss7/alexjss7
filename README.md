@@ -34,8 +34,9 @@
 ###
 
 <div align="left"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alex Silva&theme=dracula&hide_border=true" />
+  <img src="![alexjss7's Stats](https://github-readme-stats.vercel.app/api?username=alexjss7&theme=dracula&show_icons=true&hide_border=true&count_private=true)"/>
   <img src="https://streak-stats.demolab.com?user=alexjss7&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="![alexjss7's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexjss7&theme=dracula&show_icons=true&hide_border=true&layout=compact)" />
 </div>
 
 ###
